@@ -14,4 +14,5 @@ Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-
 :crescent_moon: :crescent_moon: :crescent_moon:
 
 REPOSITORY INFO
+
 animated-palm-tree = university projects (apparently GitHub is incredibly creative when it comes to repository names)
