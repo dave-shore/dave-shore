@@ -1,4 +1,4 @@
-As my first app said, Hello World! :national_park:	
+As my first app said, Hello World! 	:earth_africa:
 
 I'm Davide, and although there's something rotten in Northern Italy, for me it's home.
 
