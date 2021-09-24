@@ -9,7 +9,7 @@ Polymath by nature, always following numbers, time, creativity and discoveries.
 
 :shinto_shrine: :shinto_shrine: :shinto_shrine:
 
-Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-85053a221)
+Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-85053a221) and to send suggestions to improve my works at daviderm@protonmail.com
 
 :crescent_moon: :crescent_moon: :crescent_moon:
 
