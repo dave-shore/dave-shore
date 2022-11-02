@@ -2,8 +2,15 @@ As my first app said, Hello World! 	:earth_africa:
 
 I'm Davide, data scientist by career but polymath by nature.
 
-MSc Data Science and Economics @ University of Milan.
-BSc Mathematical Engineering @ Polytechnical University of Milan.
+####Currently:
+
+> Research Fellow @ University of Milan
+
+####Formerly
+
+> MSc Data Science and Economics @ University of Milan.
+
+> BSc Mathematical Engineering @ Polytechnical University of Milan.
 
 :shinto_shrine: :shinto_shrine: :shinto_shrine:
 
