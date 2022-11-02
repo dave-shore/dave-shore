@@ -2,11 +2,11 @@ As my first app said, Hello World! 	:earth_africa:
 
 I'm Davide, data scientist by career but polymath by nature.
 
-####Currently:
+#### Currently:
 
 > Research Fellow @ University of Milan
 
-####Formerly
+#### Formerly
 
 > MSc Data Science and Economics @ University of Milan.
 
