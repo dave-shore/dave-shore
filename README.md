@@ -17,7 +17,3 @@ I'm Davide, data scientist by career but polymath by nature.
 Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-85053a221) and to send suggestions to improve my works at daviderm@protonmail.com
 
 :crescent_moon: :crescent_moon: :crescent_moon:
-
-REPOSITORY INFO
-
-animated-palm-tree = university projects (apparently GitHub is incredibly creative when it comes to repository names)
