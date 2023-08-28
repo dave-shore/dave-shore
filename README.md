@@ -14,6 +14,7 @@ I'm Davide, data scientist by career but polymath by nature.
 
 :shinto_shrine: :shinto_shrine: :shinto_shrine:
 
-Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-85053a221) and to send suggestions to improve my works at daviderm@protonmail.com
+Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/davide-riva-85053a221).
+If you wish, buy me a hug: [BuyMeACoffee](https://www.buymeacoffee.com/ilgiustomezzo).
 
 :crescent_moon: :crescent_moon: :crescent_moon:
