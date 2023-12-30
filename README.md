@@ -1,4 +1,4 @@
-As my first app said, Hello World! 	:earth_africa:
+As my first app said, Hello World! 	:earth:
 
 I'm Davide, data scientist by career but polymath by nature.
 
