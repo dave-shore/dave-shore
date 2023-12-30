@@ -4,13 +4,15 @@ I'm Davide, data scientist by career but polymath by nature.
 
 #### Currently:
 
-> Research Fellow @ University of Milan
+> PhD Student, National PhD Programme in Artificial Intelligence @ Politecnico di Torino & Università degli Studi di Milano
 
 #### Formerly
 
-> MSc Data Science and Economics @ University of Milan.
+> Research Fellow @ Università degli Studi di Milano
 
-> BSc Mathematical Engineering @ Polytechnical University of Milan.
+> MSc Data Science and Economics @ Università degli Studi di Milano
+
+> BSc Mathematical Engineering @ Politecnico di Milano
 
 :shinto_shrine: :shinto_shrine: :shinto_shrine:
 
